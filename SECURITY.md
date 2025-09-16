@@ -1,97 +1,148 @@
-CrazySeven Games — Privacy Policy
-Effective date: 2 April 2025
-Who we are
-CrazySeven Games (“CrazySeven”, “we”, “our”, “us”) provides mobile games, websites, and related services (the “Services”).
-Contact
-Email: ceriny942@gmail.com
+CrazySeven Games — Privacy Policy (CCPA/CPRA-Ready)
 
+Effective date: 16 September 2025
+
+Last updated: 16 September 2025
+
+1) Who we are (Data Controller)
+   
+CrazySeven Games (“CrazySeven”, “we”, “our”, “us”) provides mobile games, websites, and related services (the “Services”).
+
+Data Controller: CrazySeven Games (individual developer)
+
+Privacy contact: [ceriny942@gmail.com]
+
+Postal address: [ceriny942@gmail.com]
+
+EU/UK Representative (if required): [ “Not applicable”]
+
+Data Protection Officer (DPO): We have not appointed a DPO under GDPR Art. 37. For any privacy matter, contact us at [ceriny942@gmail.com].
 ________________________________________
-1) Information We Collect (Categories)
-Depending on how you use the Services, we may collect:
-1.	Account & Profile Data – display name, username, avatar, country/region, player ID, linked social IDs, and other fields you choose to add.
-2.	Contact Data – email address, support messages, feedback forms.
-3.	Purchase & Payment Records – in-app purchase receipts/tokens, transaction timestamp, product SKU, and other non-sensitive billing metadata. We do not receive full payment card numbers.
-4.	Device & Technical Data – device model, operating system version, language, time zone, IP address, app version, crash logs, diagnostics.
-5.	Identifiers & Online Activity – mobile advertising identifiers (e.g., IDFA/GAID), user or device IDs, cookies or similar technologies, in-game events, gameplay telemetry, session length, feature usage, and approximate location inferred from IP.
-6.	Communications & User-Generated Content (UGC) – chat/text you send in game, forum/blog comments, support tickets, screenshots/avatars you upload.
-7.	Marketing Preferences – your choices regarding email/push marketing and ad personalization.
-8.	Sensitive Data – we do not intentionally collect sensitive data (e.g., precise geolocation, biometric or health data). If a feature requires such data, we will request explicit consent and provide additional notice.
-We may also receive information from platform providers, analytics/advertising/anti-cheat partners, and other service providers integrated into our apps, consistent with your device settings and applicable law.
+2) What data we collect
+•	Account & Profile: display name, player ID, linked social IDs you choose to connect.
+
+•	Contact: email/support messages/feedback.
+
+•	Purchases: in-app purchase receipts/tokens (no full card numbers).
+
+•	Device & Technical: device model/OS, app version, IP, diagnostics/crash logs.
+
+•	Identifiers & Online Activity: ad IDs (IDFA/GAID), in-app events/telemetry, session data, approximate location (from IP).
+
+•	UGC/Comms: chat/messages you send, avatars/screenshots you upload.
+
+•	Marketing Preferences: email/push/ad-personalization choices.
+
+We may receive limited data from platforms and integrated partners consistent with your device settings and law.
 ________________________________________
-2) When We Collect Information (Collection Points)
-We collect information at the following times:
-•	Install/Launch/Use of a game or visit to our sites (Device & Technical; Identifiers & Online Activity).
-•	Account Creation/Linking/Update or when you contact support (Account & Profile; Contact).
-•	Purchases (Purchase & Payment Records).
-•	In-Game Interactions such as gameplay, telemetry, events, anti-cheat signals, and when you use chat or upload content (Communications & UGC).
-•	Consent & Preferences – when you respond to permission prompts or set marketing/ad-tracking preferences (Marketing Preferences; Identifiers).
-We provide key privacy information at or before collection, including categories, purposes, and retention.
+3) Why we use data (Purposes & legal bases)
+   
+Provide/operate Services; transactions & fraud prevention; analytics & improvement; advertising & measurement (personalized only where permitted/consented); service communications; compliance & safety. (GDPR bases include contract, legitimate interests, consent, and legal obligation as applicable.)
 ________________________________________
-3) Why We Use Information (Purposes & Legal Bases)
-We use information for the purposes below. Where EU/UK law applies, the corresponding lawful basis is indicated.
-Purpose	Examples	Legal Basis (EU/UK, if applicable)
-Provide and operate the Services	run the game; save progress; matchmaking; cloud sync; customer support	Contract; Legitimate interests (service reliability and diagnostics)
-Transactions & Fraud Prevention	process IAP receipts; entitlement verification; prevent abuse/cheating	Contract; Legal obligation; Legitimate interests (security)
-Analytics & Product Improvement	telemetry, crash analytics, A/B testing, game balance tuning	Legitimate interests (improvement)
-Advertising & Measurement	deliver and measure ads; frequency capping; personalization where permitted	Consent for personalized ads/tracking; Legitimate interests for non-personalized ads/measurement where permitted
-Marketing Communications	email/push about updates, offers (where allowed)	Consent, or Legitimate interests with opt-out
-Compliance & Safety	enforce terms; content moderation; respond to legal requests; age-related controls	Legal obligations; Legitimate interests
+4) Do we “sell” or “share” personal information?
+   
+We do not sell your personal information for money. Some ad/measurement integrations may constitute “sharing” for cross-context behavioral advertising under California law. Where required, we provide controls to opt out of sale/share and targeted advertising. “Sell” and “share” have specific statutory meanings under CPRA. 
 ________________________________________
-4) Do We Sell or Share Data?
-We do not sell your personal information for money. Some advertising/analytics integrations may be considered “sharing” for cross-context behavioral advertising under certain laws; where required, we provide in-app controls to opt out of such sharing.
+5) Cookies, SDKs & similar technologies
+   
+We and partners use cookies/mobile SDKs for authentication, security, analytics, and ads. Access to advertising identifiers/tracking across apps obeys your device settings and applicable permissions.
 ________________________________________
-5) Cookies, SDKs, and Similar Technologies
-We and our partners use cookies, mobile SDKs, and similar technologies for authentication, security, analytics, and advertising. On supported platforms, access to advertising identifiers or tracking across apps is subject to your device settings and any required permissions.
+6) Children’s privacy
+   
+Our Services are not directed to children under 13. We do not knowingly collect personal information from children under 13 without verifiable parental consent. If we learn we have collected such data, we will delete it.
 ________________________________________
-6) Children’s Privacy
-Our Services are not directed to children under 13. We do not knowingly collect personal information from children under 13 without verifiable parental consent. If we learn we have collected such information, we will delete it. Local age thresholds may vary; where required, we will seek guardian authorization.
+7) How we disclose information
+   
+We disclose data to: service providers (hosting, analytics, anti-fraud, support), advertising/mediation partners (as permitted by your settings/consent), platform stores (entitlement processing), legal/compliance, and in business transfers. Recipients must protect data and use it per our instructions and law.
 ________________________________________
-7) How We Share Information
-We share information only as described below and require recipients to protect it and use it only for our instructions:
-•	Service Providers/Processors (cloud hosting, analytics, anti-fraud, customer support).
-•	Advertising & Mediation Partners (to serve/measure ads as permitted by your settings/consent).
-•	Platform Stores (to process purchases and entitlements).
-•	Legal/Compliance (to comply with laws, enforce terms, protect rights, respond to lawful requests).
-•	Business Transfers (e.g., merger, acquisition, restructuring).
-We do not authorize partners to use personal information for their own independent purposes beyond what is permitted by law and our contracts.
-________________________________________
-8) International Transfers
-Where we transfer personal information internationally, we use recognized safeguards appropriate to the destination (for example, standard contractual protections and supplementary measures where required) to help ensure an adequate level of protection.
+8) International transfers
+   
+Where we transfer data internationally, we use appropriate safeguards (e.g., standard contractual clauses and supplementary measures) to help ensure an adequate level of protection.
 ________________________________________
 9) Retention
-We retain personal information only for as long as necessary to fulfill the purposes described in this Policy or as required by law. When no longer needed, we delete or anonymize the information.
+    
+We keep personal information only as long as necessary for the purposes above or as required by law, then delete or anonymize it.
 ________________________________________
-10) Your Rights & Choices
-Your privacy rights depend on your location. Subject to applicable law, you may have the right to:
-•	Access the personal information we hold about you.
-•	Correct inaccurate information.
-•	Delete information in certain circumstances.
-•	Object to or restrict certain processing.
-•	Withdraw consent where processing is based on consent.
-•	Portability of certain information.
-•	Opt-out of the sale/share of personal information and limit the use of sensitive information where applicable.
-•	Lodge a complaint with a supervisory authority or relevant regulator.
-How to exercise your rights: Contact us using the details in Contact. We may take reasonable steps to verify your identity. You may also control advertising preferences via device settings and in-app privacy controls (where available), including limiting or resetting advertising identifiers and disabling personalized ads where supported.
+10) Your rights & choices (by region)
+    
+A. EU/UK (GDPR)
+
+You may access, rectify, erase, restrict, object (including to profiling for direct marketing), port, and withdraw consent where processing is based on consent. You can complain to a supervisory authority. We provide required Art. 13/14 information at or before collection (controller identity, purposes/bases, recipients, retention, transfers, etc.).
+
+B. California (CCPA/CPRA) — Your rights & how to exercise them
+
+California residents have the following rights under the CCPA/CPRA, whether or not we actually sell/share your data. 
+
+1.	Right to know (collection, use, disclosure) — You can request that we disclose: the categories and specific pieces of personal information we collected about you; the sources; the business/commercial purposes; and the categories of third parties to whom we disclosed it.
+   
+2.	Right to know whether we “sold” or “shared” your personal information — You can request that we tell you whether we sold or shared your personal information in the preceding 12 months, and if so, we will provide two separate lists:
+   
+o	the categories of personal information sold or shared and the categories of third parties to whom it was sold/shared; and
+
+o	the categories of personal information disclosed for a business purpose.
+
+If we have not sold or shared personal information in the preceding 12 months, we will state that. 
+
+3.	Right to opt out of the “sale” or “sharing” of personal information — You can direct us at any time to stop selling or sharing your personal information. We provide a “Do Not Sell or Share My Personal Information” link and process user-enabled opt-out preference signals (e.g., Global Privacy Control) as valid requests. Once you opt out, we will not sell or share your personal information unless you later authorize us to do so.
+   
+4.	Right to delete, correct, and to limit the use/disclosure of sensitive personal information (where applicable), and non-discrimination for exercising rights.
+   
+5.	Authorized agents & verification — You may use an authorized agent to make requests; we may require proof of authorization and reasonable verification steps. We respond within 45 days (and may extend once for 45 more days with notice).
+   
+How to exercise your California rights
+
+•	Use our Privacy Choices / Do Not Sell or Share page（mailTo）: [ceriny942@gmail.com] (also linked in-app and site footer).
+
+•	Or email us at [ceriny942@gmail.com].
+
+We also honor Global Privacy Control (GPC) and other opt-out preference signals sent by your browser or device; where technically feasible, we extend your opt-out across browsers/devices we can reasonably associate with you. 
+Disclosures for the preceding 12 months (CPRA look-back)
+
+•	Sale of personal information: We do not sell personal information.
+
+•	Sharing for cross-context behavioral advertising: We may have shared (subject to your choices) the following categories with advertising/measurement partners to deliver/measure ads:
+
+o	Identifiers (e.g., advertising IDs, IP address);
+
+o	Internet/Network Activity (e.g., in-app events, page views);
+
+o	Approximate geolocation (derived from IP).
+
+You can opt out at any time via [privacy-choices link] or by enabling GPC. 
+
+Required links & notices
+
+We maintain a clear and conspicuous “Do Not Sell or Share My Personal Information” link on our internet homepages (and in-app settings) that either immediately effectuates your opt-out or takes you to the notice page where you can make that choice, consistent with CPPA regulations. 
+
+C. Virginia (VCDPA)
+
+Virginia residents may access, correct, delete, port, and opt out of targeted advertising, sale, and profiling with legal or similarly significant effects. Appeals: if we deny your request, you may appeal by replying to our response or emailing [ceriny942@gmail.com]; we will respond within the statutory period and include how to contact the Virginia Attorney General if your appeal is denied.
+
+D. Brazil (LGPD)
+
+Brazilian users have the rights in LGPD Art. 18 (confirmation, access, correction, anonymization/blocking/deletion, portability, information about sharing, consent withdrawal, review of automated decisions).
+
+Encarregado/Data-privacy contact: [ceriny942@gmail.com].
 ________________________________________
 11) Security
-We implement technical and organizational measures designed to protect personal information (e.g., encryption in transit, access controls, auditing). No system is completely secure; please keep your account credentials confidential.
+We implement technical/organizational measures (e.g., encryption in transit, access controls, auditing). No system is perfectly secure; keep credentials confidential and notify us of suspected unauthorized access.
 ________________________________________
-12) Changes to This Policy
-We may update this Policy to reflect changes in our practices or legal requirements. We will revise the Effective date and, where required, provide additional notice or request consent.
+12) Changes to this Policy
+We may update this Policy for operational/legal reasons. We will update the Effective date and, where required, provide additional notice or request consent.
 ________________________________________
-13) How to Contact Us
-Email: ceriny942@gmail.com
-EU/UK: You may also contact your local data-protection authority.
+13) Contact us
+Privacy email: [ceriny942@gmail.com]
+Postal address: [ceriny942@gmail.com]
+________________________________________
+Annex A — CPRA Category Tables (illustrative; customize to your actual flows)
 
-________________________________________
-Annex A — Collection Matrix (Categories • When • Purpose)
-This annex explicitly maps the three required items.
-Category	When We Collect	Purpose(s)
-Account & Profile	When you sign up, link a social account, or update your profile	Provide the Services; identity; cloud sync; social features; support
-Contact	When you contact support or submit feedback	Respond to requests; troubleshoot; service communications
-Purchases	When you initiate or complete an in-app purchase	Fulfill transactions; entitlement; fraud prevention; receipts
-Device & Technical	On install/launch and while using the app; upon crashes	Operate the Services; security; crash analytics; performance tuning
-Identifiers & Online Activity	On first run and during use; subject to your device settings/permissions	Analytics; ad measurement; personalization where permitted; frequency capping
-Communications & UGC	When you post, chat, or upload content	Community features; moderation; enforce terms; safety
-Marketing Preferences	When you set or change preferences or consents	Send permitted communications; honor opt-outs; manage ad-personalization choices
+Categories collected: Identifiers; Internet/Network Activity; Approximate Geolocation; Commercial Information (IAP receipts); Device/Technical; In-app Communications/UGC (where applicable).
+
+Categories disclosed for business purposes (service providers/platforms): Identifiers; Device/Technical; Internet/Network Activity; Commercial Information.
+
+Categories “shared” for cross-context behavioral advertising (subject to opt-out): Identifiers; Internet/Network Activity; Approximate Geolocation.
+
+(We do not sell personal information.)
+
+How we honor opt-outs: via the Do Not Sell or Share link, in-app toggle, and GPC signals, per CPPA regs. 
 
