@@ -102,7 +102,7 @@ CrazySeven Games reserves the right to stop offering and/or supporting the Servi
 
  
 
-You may terminate your Account at any time and for any reason by following the process described on our support page located at https://www.dreamstonevr.com/ informing CrazySeven Games that you wish to terminate your Account.
+You may terminate your Account at any time and for any reason by following the process described on our support page informing CrazySeven Games that you wish to terminate your Account.
 
  
 
@@ -333,7 +333,7 @@ Except as expressly and specifically set forth in this these Terms of Service, n
 
  
 
-We may notify you via postings on www.dreamstonevr.com, and via e-mail or any other communications means to contact information you provide to us. All notices given by you or required from you under these Terms of Service or the CrazySeven Games Privacy Policy shall be in writing and addressed to: CrazySeven Games’s address. Any notices that you provide without compliance with this Section on Notices shall have no legal effect.
+We may notify you  via e-mail or any other communications means to contact information you provide to us. All notices given by you or required from you under these Terms of Service or the CrazySeven Games Privacy Policy shall be in writing and addressed to: CrazySeven Games’s address. Any notices that you provide without compliance with this Section on Notices shall have no legal effect.
 
  
 
